@@ -7,7 +7,7 @@ int main()
   float Aug[20][1];
   int i,j,order;
   clock_t start = clock();
-  printf("\nEnter order of matrix : ");
+  printf("\nEnter order of matrix A : ");
   scanf("%d",&order);
   if(order == 0)
   {
